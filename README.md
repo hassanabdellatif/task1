@@ -1,16 +1,10 @@
-# task1
+Algoriza task 1 
+1- Onboarding page:
+![onboarding_1](https://user-images.githubusercontent.com/73462985/176495055-8e769355-b89f-4669-afae-ae8b6b80b991.png)
+![onboarding_2](https://user-images.githubusercontent.com/73462985/176495082-63459ab3-4d53-4baf-8d73-194a398ad7e3.png)
 
-A new Flutter project.
+2- Login page:
+![login](https://user-images.githubusercontent.com/73462985/176495153-a9c75333-cdfb-411d-8afe-109098f08379.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3- Register page:
+![register](https://user-images.githubusercontent.com/73462985/176495215-995a94f7-5a6b-4f9b-bb68-577bba9c99be.png)
