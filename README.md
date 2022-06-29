@@ -1,4 +1,5 @@
 Algoriza task 1 
+
 1- Onboarding page:
 ![onboarding_1](https://user-images.githubusercontent.com/73462985/176495055-8e769355-b89f-4669-afae-ae8b6b80b991.png)
 ![onboarding_2](https://user-images.githubusercontent.com/73462985/176495082-63459ab3-4d53-4baf-8d73-194a398ad7e3.png)
